@@ -1,2 +1,2 @@
 # hello-world
-a test repo
+This is a test repo. There is nothing here to see.
